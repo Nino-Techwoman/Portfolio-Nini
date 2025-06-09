@@ -1,0 +1,176 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+
+
+body{
+  font-family: 'Inknut Antiqua', serif;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.container{
+  max-width: 1024px;
+  padding: 50px 24px;
+  min-height: 300px;
+  margin: 0px auto;
+  
+}
+
+header{
+  background-image: url(./assets/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+nav{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  
+}
+.custom-line{
+  border: none;
+  height: 2px;
+  width: 50px;                
+  background-color: #000000; 
+  margin: 30px 0px 9px;    
+}
+
+nav a{
+  font-size: 20px;
+  color: black;
+  
+  padding: 12px 12px;
+}
+nav a:hover{
+  transform: scale(1.1);
+}
+.main{
+  display: flex;
+  align-items: center;
+  margin-top: -130px;
+  margin-bottom: 50px;
+}
+
+.herobox1{
+  flex: 2;
+  padding-right: 100px;
+}
+
+.herobox1 h1{
+  font-size: 48px;
+  margin-bottom: 10px;
+  
+
+}
+
+.herobox1 p{
+  font-size: 16px;
+  line-height: 24px;
+
+}
+
+.herobox2{
+  flex: 1;
+}
+
+.mybutton{
+  background-color: black;
+  display: inline-block;
+  color: white;
+  padding: 11px 25px;
+  border-radius: 100px 100px ;
+  margin-top: 24px;
+  box-shadow: 0px 2px 2px black;
+}
+.mybutton a{
+  color: white;
+  background-color: rgba(0, 0, 0, 0.217);
+ 
+  padding: 8px 16px;
+}
+  .section{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+  }
+  .section li{
+    font-size: 40px;
+  }
+
+  .section1{
+    background-color:#D7ECF5
+  }
+  
+  .cards{
+   
+  display: flex;
+  align-items: center;
+  
+  }
+
+  .card2 p{
+    font-size: 16px;
+  line-height: 24px;
+  color: rgb(0, 0, 0);
+  
+
+
+  }
+  .card1{
+    padding-right: 100px;
+  }
+
+  .cards3 {
+    display: flex;
+  align-items: center;
+
+  }
+
+  .QA{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    
+  } 
+  h2 {
+    color: #721817;
+    font-size: 1.8em;
+    margin-bottom: 8px;
+  }
+  
+  p a {
+    color: #FA9F42;
+    text-decoration: none;
+  }
+  
+  p a:hover {
+    text-decoration: underline;
+  }
+
+  .footer h2{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 48px;
+    margin-bottom: 40px;
+  }
+
+  .footer p{
+    display: flex;
+    justify-content: center;
+
+  }
+  
+  
+  
+ 
+  
+
