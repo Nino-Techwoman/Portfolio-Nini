@@ -1,2 +1,3 @@
 # Portfolio-Nini
-portfolio abaut Me
+some information about Me
+
