@@ -8,8 +8,8 @@ $site = [
     'url' => 'https://ninobregvadze.com/',
     'email' => 'nini.bregvadze@icloud.com',
     'og_image' => 'https://ninobregvadze.com/assets/og-image.png',
-    'linkedin' => 'https://www.linkedin.com/in/ninobregvadze',
-    'github' => 'https://github.com/ninobregvadze'
+    'linkedin' => 'https://www.linkedin.com/in/nino-bregvadze-92b149238/',
+    'github' => 'https://github.com/Nino-Techwoman'
 ];
 
 // Personal Information
